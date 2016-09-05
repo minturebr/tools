@@ -1,9 +1,7 @@
-# PHP Controller
-A simple controller in php to (control browsers using XSS of @brutelogic)
-
-![alt tag](https://pbs.twimg.com/media/ChKYcPwW0AA1jJn.jpg)
-
-http://brutelogic.com.br/blog/using-xss-to-control-a-browser/
+ A simple controller in php to (control browsers using XSS of @brutelogic)
   
-# Thanks
-Brutelogic : for research (using-xss-to-control-a-browser)
+  ![alt tag](https://pbs.twimg.com/media/ChKYcPwW0AA1jJn.jpg)
+  
+  http://brutelogic.com.br/blog/using-xss-to-control-a-browser/
+    
+  Brutelogic : for research (using-xss-to-control-a-browser)
